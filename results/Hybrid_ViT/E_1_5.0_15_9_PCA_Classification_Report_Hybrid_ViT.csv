@@ -1,26 +1,26 @@
-11.490147829055786 Tr_Time
-6.229483127593994 Te_Time
-1.1682512760162354 DL_Time
-95.09110299454203 Kappa accuracy (%)
-95.98343413094925 Overall accuracy (%)
-95.59757184387045 Average accuracy (%)
+38.04747200012207 Tr_Time
+23.78031897544861 Te_Time
+3.122455358505249 DL_Time
+92.79008061298813 Kappa accuracy (%)
+94.10991322640021 Overall accuracy (%)
+92.90317131360523 Average accuracy (%)
 
                     precision    recall  f1-score   support
 
-             blood       0.96      0.98      0.97      2668
+             blood       0.98      0.88      0.93      2668
            ketchup       0.97      0.99      0.98      5259
-  artificial blood       0.93      0.91      0.92      5774
-      poster paint       0.98      1.00      0.99      5963
-tomato concentrate       0.91      0.88      0.89      3541
-     acrylic paint       0.99      0.98      0.98      7219
+  artificial blood       0.87      0.88      0.88      5774
+      poster paint       0.99      1.00      1.00      5963
+tomato concentrate       0.87      0.85      0.86      3541
+     acrylic paint       0.96      0.98      0.97      7219
 
-          accuracy                           0.96     30424
-         macro avg       0.96      0.96      0.96     30424
-      weighted avg       0.96      0.96      0.96     30424
+          accuracy                           0.94     30424
+         macro avg       0.94      0.93      0.93     30424
+      weighted avg       0.94      0.94      0.94     30424
 
-[[2621   14   22    7    4    0]
- [   0 5187   17   26   29    0]
- [  86    6 5258   57  286   81]
- [   0    0    4 5958    0    1]
- [  13  153  233   31 3110    1]
- [   6    0  138    3    4 7068]]
+[[2357   23  246    6    5   31]
+ [   0 5189   10   10   50    0]
+ [  10    1 5068   23  388  284]
+ [   0    0    5 5957    0    1]
+ [   0  162  354   11 3014    0]
+ [  42    0  115    1   14 7047]]
