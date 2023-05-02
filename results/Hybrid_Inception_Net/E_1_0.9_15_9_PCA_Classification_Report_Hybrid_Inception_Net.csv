@@ -1,0 +1,26 @@
+2907.4920706748962 Tr_Time
+342.0933635234833 Te_Time
+1.1737587451934814 DL_Time
+98.03132097784504 Kappa accuracy (%)
+98.38942939784381 Overall accuracy (%)
+98.18427996767302 Average accuracy (%)
+
+                    precision    recall  f1-score   support
+
+             blood       0.99      0.98      0.99      2668
+           ketchup       1.00      1.00      1.00      5259
+  artificial blood       0.96      0.97      0.96      5774
+      poster paint       0.99      1.00      1.00      5963
+tomato concentrate       0.96      0.96      0.96      3541
+     acrylic paint       0.99      0.99      0.99      7219
+
+          accuracy                           0.98     30424
+         macro avg       0.98      0.98      0.98     30424
+      weighted avg       0.98      0.98      0.98     30424
+
+[[2619    0   28    1    7   13]
+ [   0 5239    1    2   17    0]
+ [   2    0 5599   27  124   22]
+ [   0    0    0 5960    0    3]
+ [  10   20  122    2 3386    1]
+ [   4    0   81    1    2 7131]]
