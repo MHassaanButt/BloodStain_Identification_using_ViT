@@ -1,0 +1,10 @@
+matplotlib
+spectral
+seaborn
+numpy
+tensorflow
+keras
+scikit-learn
+vit_keras
+opencv-python
+tensorflow_addons
